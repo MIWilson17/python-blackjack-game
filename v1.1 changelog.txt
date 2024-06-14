@@ -1,0 +1,6 @@
+Added get_visible_value method in the Hand class
+Added __str__ method in the Hand class:
+Updated show_initial_hands method in the Blackjack class
+Updated print statements in the player_turn method in the Blackjack class to use the new __str__ method
+Updated print statements in the dealer_turn method in the Blackjack class to use the new __str__ method
+Changes the output of a hand to:  Dealer's hand: 5 of Spades , Ace of Diamonds , Ace of Clubs (17)
