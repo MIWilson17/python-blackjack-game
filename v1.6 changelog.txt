@@ -1,0 +1,5 @@
+Fixed a bug where a natural blackjack was not being payed to the player correctly.
+Added a button to reset the bankroll to the original amount specified in the settings.
+Added the ability to play with a continous shuffling machine (CSM).
+Fixed purchasing insurance.
+Added the 2:1 odds payout of insurance upon dealer having a natural blackjack. 
