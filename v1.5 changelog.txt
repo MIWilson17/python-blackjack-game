@@ -1,0 +1,3 @@
+Reworked existing code into a TKinter GUI.
+Added more context to the winning screen that informs the player how much they have won or lost.
+Added a window that tells the player when the deck has been reshuffled at the penetration level.
