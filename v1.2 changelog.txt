@@ -1,0 +1,4 @@
+Added a while true statement to make the game continue until the player chooses to quit.
+Initialized the deck prior to the game loop and fed it into each instance Blackjack to make the deck persisten and run out.
+Added the ability for the player to dictate deck penetration (how many decks of cards are used before reshuffle occurs).
+Added reshuffling after specified deck penetration is reached.
