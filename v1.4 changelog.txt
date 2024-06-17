@@ -1,0 +1,6 @@
+Added the ability for the player to dictate the amount of their bankroll.
+Mader the bankroll persistent across rounds.
+Added the ability for the player to bet each round.
+Added the ability for the player to determine the odds of getting a natural blackjack.
+Added winning and losing bets and winning the payout odds of getting a natural blackjack.
+Changed the Blackjack class to KingOfBlackjack.
