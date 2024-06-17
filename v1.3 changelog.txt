@@ -1,0 +1,2 @@
+Added the ability to split hands through can_split function and additional changes in the player turn to handle splitting the hands and iterating through each hand.
+Fixed ending criteria for a natural blackjack for the dealer.
